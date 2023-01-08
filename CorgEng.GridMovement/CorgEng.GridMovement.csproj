@@ -10,4 +10,8 @@
     <Folder Include="Systems\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\CorgEng\CorgEng.EntityComponentSystem\CorgEng.EntityComponentSystem.csproj" />
+  </ItemGroup>
+
 </Project>
