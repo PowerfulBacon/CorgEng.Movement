@@ -3,6 +3,11 @@
 Modular player movement modules for the CorgEng game engine. This project exists to save time making generic components that most games will use, mostly so I can develop games faster during game jams.
 With enough of these modules, they can work like building blocks, quickly getting an extremely basic but functional foundation for any game.
 
+This does not currently support networking due to the input handler being in the process of being refactored, and not currently having a demand for networked games (Our networking is too unstable right now and requires too much work).
+
+TODO:
+ - [ ] Setup the input handler to support networking properly, update this project to accomodate networking projects once that has been completed.
+
 ## Setting Up
 
 In order to setup this project, the CorgEng repository needs to be downloaded. Once that is downloaded, place it into a directly alongside this project.
