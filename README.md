@@ -19,6 +19,8 @@ Right click on the project you wish to add the module to, and select Add project
 
 Add the project as a reference.
 
+![image](https://user-images.githubusercontent.com/26465327/211218733-6c179d35-143f-47de-a358-ec7e51036c4e.png)
+
 Next, add the movement module you are using to the CorgEngConfig.xml file.
 
 ```xml
