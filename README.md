@@ -1,5 +1,7 @@
 # CorgEng.Movement
- Modular player movement modules for the CorgEng game engine.
+
+Modular player movement modules for the CorgEng game engine. This project exists to save time making generic components that most games will use, mostly so I can develop games faster during game jams.
+With enough of these modules, they can work like building blocks, quickly getting an extremely basic but functional foundation for any game.
 
 ## Setting Up
 
