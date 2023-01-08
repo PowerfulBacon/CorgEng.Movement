@@ -37,3 +37,10 @@ Next, add the movement module you are using to the CorgEngConfig.xml file.
 See the example project in the CorgEng project for more details about this.
 
 You may now use the components specified in the added modules by adding them to any entity, either with `entity.AddComponent(...);` or by adding it in a content file.
+
+## Dependencies
+
+CorgEng is required to use this project, as well as any dependencies required by CorgEng. Place these repositories alongside each other and alongside your game project.
+
+![image](https://user-images.githubusercontent.com/26465327/211218899-bbe1cc3f-4dea-4ae4-97c9-386a52e9d53d.png)
+
